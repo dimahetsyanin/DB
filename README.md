@@ -1,3 +1,2 @@
-Course “Data Bases”
-# Lab 1
+#Course “Data Bases”
 Author: Hetsyanin Dmytro
