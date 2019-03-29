@@ -1,2 +1,2 @@
-#Course “Data Bases”
+# Course “Data Bases”
 Author: Hetsyanin Dmytro
